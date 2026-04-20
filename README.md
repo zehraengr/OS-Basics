@@ -1,1 +1,1 @@
-Bu dosyamda almış olduğum belli başlı "bilgisayar kavramları" notlarımı derledim.
+Bu dosyamda almış olduğum belli başlı "işletim sistemi temelleri" notlarımı derledim.
